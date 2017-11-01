@@ -2,6 +2,7 @@
 
 def countdown(n)
   x = n 
-  n.times do 
+  while x > 0 
+    puts "#{x} SECOND(S)!"
     
 end
